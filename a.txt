@@ -1,3 +1,9 @@
 ## commented the first line
 #This is the a txt file for sample
+<<<<<<< HEAD
 this is the second line
+=======
+this is second line in a.txt from github.com remote site
+
+
+>>>>>>> 2ee88b6cc6d7631d108426545960f7f385e84f6b
